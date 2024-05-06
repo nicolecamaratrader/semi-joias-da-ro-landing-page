@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#capamodelo{
+    width: 1000px;
+    background-color:#693773;
+    padding-left: 355px;
+}
+
+.menusuperior{
+        background-color:antiquewhite; 
+        color: #693773;
+        padding: 30px 50px 30px 50px;
+        display:grid;
+        grid-auto-flow: column;
+        columns: auto;
+    }
+
+#apresentação{
+    padding-top: 50px;
+    padding-bottom: 150px;
+    background-color:antiquewhite;
+    color:#693773;
+}
