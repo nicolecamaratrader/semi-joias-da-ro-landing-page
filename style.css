@@ -26,6 +26,7 @@
     color:#693773;
 }
 
+
 input {
     width: 400px;
     height: 40px;
@@ -54,9 +55,25 @@ button:hover {
     box-shadow: 0px 15px 20px #1a011fd5;
 }
 
+   
 #aboutus{
-    padding-top: 50px;
-    padding-bottom: 150px;
-    background-color:#eab6f5;
-    color:#693773;
+        text-align: justified;
+        padding-top: 50px;
+        padding-bottom: 150px;
+        background-color:#eab6f5;
+        color:#693773;
+    }
+    
+
+
+@media screen and (max-width: 768px) 
+{}
+
+.menusuperior {
+    display: -moz-box;
+    align-self: auto;
+}
+
+#capamodelo{
+    width: 65vw ;
 }
