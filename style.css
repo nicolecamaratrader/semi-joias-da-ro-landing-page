@@ -67,7 +67,7 @@ button:hover {
 
 
 @media screen and (max-width: 768px) 
-{}
+{
 
 .menusuperior {
     display: -moz-box;
@@ -76,4 +76,5 @@ button:hover {
 
 #capamodelo{
     width: 65vw ;
+}
 }
