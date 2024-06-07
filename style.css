@@ -62,9 +62,9 @@ button:hover {
         padding-bottom: 150px;
         background-color:#eab6f5;
         color:#693773;
+        display: none;
     }
     
-
 
 @media screen and (max-width: 768px) 
 {
