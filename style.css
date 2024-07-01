@@ -2,17 +2,16 @@
     margin: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    scroll-margin-block: 0;
 }
 
 #capamodelo{
-    width: 100%;
+    width: 80%;
     background-color:#693773;
     padding-left: 355px;
 }
 
 .menusuperior{
-        width: 100%;
+        width: 80%;
         background-color:rgba(250, 235, 215, 0.719); 
         color: #693773;
         padding: 30px 200px 30px 200px;
@@ -22,7 +21,7 @@
     }
 
 #apresentação{
-    width: 100%;
+    width: 80%;
     padding: 50px 200px 150px 200px ;
     background-color:#eab6f5;
     color:#693773;
